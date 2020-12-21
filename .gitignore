@@ -65,6 +65,7 @@ db.sqlite3-journal
 instance/
 .webassets-cache
 
+
 # Scrapy stuff:
 .scrapy
 
@@ -131,4 +132,8 @@ dmypy.json
 # VSCode
 *.code-workspace
 .devcontainer/
-
+.gitconfig
+.vscode-server/
+.vscode/
+.pylint.d/
+.bash_history
