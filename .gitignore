@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # VSCode
-.code-workspace
+*.code-workspace
 .devcontainer/
 
